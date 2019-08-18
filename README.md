@@ -1,1 +1,1 @@
-# automated-genome-annotation
+# automated-EukGenome-annotation
